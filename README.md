@@ -1,5 +1,5 @@
 # WorldsHardestGame
-I made this from scratch when I was in year 9 using python and the pyame library
+Python - I made this from scratch when I was in year 9 using python and the pyame library
 
 To run it you must have python 2.7 installed aswell as pygame 
 
